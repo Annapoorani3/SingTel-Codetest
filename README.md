@@ -24,3 +24,6 @@ Section D:
 1)	Create insects class which extends Animal and Butterfly class which extends Insects with the fly() method inside the class.
 2)	Create caterpillar class which extends insects and a transform method into it so that a caterpillar can transform into a butterfly
 
+Section E:
+1)	Put all the classes together and implement Boolean for all the walk(), fly(), swim() and sing() method. And then create the array of all animals and use counter to count the number of animals that walk, swim, sing or fly.
+
