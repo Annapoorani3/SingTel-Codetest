@@ -19,3 +19,8 @@ Section B:
 1). First we can create Land Animal and Aquatic Animal which extends Animal class. Then we can create fish and dolphin which extends Aquatic animal. And then shark and clownfish which extends fish. Clown fish have size and color properties. Shark has size, color and Fish object.
 So that now clownfish can make jokes and sharks can eat other fishes.
 Yes, We can model a dolphin without inheriting from Fish class. As we have Aquatic animal class, We can directly inherit dolphin from that class. As we have the swim method in aquatic animal class, the dolphin can also swim without getting inherited from fish class.
+
+Section D:
+1)	Create insects class which extends Animal and Butterfly class which extends Insects with the fly() method inside the class.
+2)	Create caterpillar class which extends insects and a transform method into it so that a caterpillar can transform into a butterfly
+
